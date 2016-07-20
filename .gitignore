@@ -1,0 +1,7 @@
+IntroscopeAgentFiles*.tar
+
+# Maven
+target/
+
+# Mac
+.DS_Store
