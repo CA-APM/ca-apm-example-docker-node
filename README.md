@@ -53,7 +53,7 @@ Version | Author | Comment
 1.0 | Guenter Grossberger | First version of this example.
 
 ## Support URL
-https://github.com/CA-APM-stage/ca-apm-example-docker-node
+https://github.com/CA-APM/ca-apm-example-docker-node/issues
 
 ## Short Description
 This example shows how to install a CA APM Node.js probe in a Node.js Docker image.
